@@ -60,7 +60,7 @@ Whether you're a data scientist, ML engineer, or solo hacker, AI-Agent makes it 
 Clone the repository:
 
 ```bash
-git clone https://github.com/vincensiuselang/AI_Agent_ML.git
+git clone https://github.com/vincensiuselang/AgentML.git
 cd AI_Agent_ML
 ```
 
