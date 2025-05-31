@@ -1,4 +1,4 @@
-****# 🤖 AI-Agent: Machine Learning Project 🚀
+# 🤖 AI-Agent: Machine Learning Project 🚀
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
