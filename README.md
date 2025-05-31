@@ -66,14 +66,14 @@ cd AI_Agent_ML
 
 📦 Create a virtual environment (Optional but recommended):
 
+Windows
 ```bash
-# Windows
 python -m venv .venv
 .venv\Scripts\activate
 ```
  
+macOS / Linux
 ```bash
-# macOS / Linux
 python3 -m venv .venv
 source .venv/bin/activate
 ```
@@ -86,12 +86,12 @@ pip install -r requirements.txt
 ### 2️⃣ Running the Application
 Run the application using Python:
 
-# Windows
+Windows
 ```bash
 python AI_Agent_ML\main.py
 ```
 
-# macOS / Linux
+macOS / Linux
 ```bash
 python AI_Agent_ML/main.py
 ```
