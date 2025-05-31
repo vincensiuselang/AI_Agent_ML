@@ -86,12 +86,13 @@ pip install -r requirements.txt
 ### 2️⃣ Running the Application
 Run the application using Python:
 
-```bash
 # Windows
+```bash
 python AI_Agent_ML\main.py
 ```
-```bash
+
 # macOS / Linux
+```bash
 python AI_Agent_ML/main.py
 ```
 
