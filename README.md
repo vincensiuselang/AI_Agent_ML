@@ -61,7 +61,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/vincensiuselang/AgentML.git
-cd AI_Agent_ML
+cd AgentML
 ```
 
 📦 Create a virtual environment (Optional but recommended):
