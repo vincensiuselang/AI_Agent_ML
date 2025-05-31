@@ -1,0 +1,11 @@
+scikit-learn>=1.2.2
+pandas>=1.5.3
+numpy>=1.24.3
+matplotlib>=3.7.1
+seaborn>=0.12.2
+xgboost>=1.7.5
+lightgbm>=3.3.5
+joblib>=1.2.0
+lazypredict>=0.2.12
+tpot>=0.11.7
+imbalanced-learn>=0.10.1
