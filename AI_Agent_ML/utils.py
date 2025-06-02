@@ -5,7 +5,7 @@ import pandas as pd
 
 # function for load dataset scikitlearn / file csv
 def load_dataset():
-    print("=== Pilihan Sumber Dataset ===")
+    print("\n=== Pilihan Sumber Dataset ===")
     sumber = input("0. Keluar dari program\n1. Dari scikit-learn (built-in)\n2. Dari file CSV lokal\nMasukkan pilihan [0/1/2]: ")
 
     if sumber == '0':
