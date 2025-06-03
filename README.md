@@ -95,7 +95,19 @@ macOS / Linux
 ```bash
 python AI_Agent_ML/main.py
 ```
+---
+Troubleshooting
+If you encounter errors:
+```bash
+pip install setuptools
+```
 
+Optional Installation
+For additional functionality:
+```bash
+pip install torch
+```
+---
 Then follow the interactive prompts to:
 
 - 📂 Load a dataset
